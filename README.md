@@ -11,8 +11,11 @@ Others viewing this site can see all the created memories as well as create thei
 The api is implemented using Express:
 
 Create: --> Users can create posts
+
 Read:   --> Users can read posts
+
 Update: --> Can edit posts by clicking on the three-dots-icons
+
 Delete: --> Can delete posts.
 
 <img src="media-git/ss.png" alt="screenshot of memories"/>
