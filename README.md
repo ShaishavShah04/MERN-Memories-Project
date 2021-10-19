@@ -8,4 +8,4 @@ This project, Memories, is a platform allowing users to 'create' a memory by fil
 
 Others viewing this site can see all the created memories as well as create their own. They can 'Like' or 'Delete' a memory ( since authorization is not yet implemented ).
 
-<img src="git-media/ss.png" alt="screenshot of memories"/>
+<img src="media-git/ss.png" alt="screenshot of memories"/>
